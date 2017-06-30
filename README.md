@@ -3,7 +3,9 @@ This is a repository for the support of Korean NanumGothicCoding fonts for https
 
 Arduino Due with SSD1306 OLED Graphic LCD tested.
 
-<img width="800" height="600">![Hangul test with Arduino Due](/U8G2_Hangul.JPG)</img>
+<img width="800" height="600">![Hangul test with Arduino Due](/U8G2_Hangul.JPG)
+<img width="800" height="600">![Hangul characters begin.](/Hangul1.png)
+<img width="800" height="600">![Hangul characters end.](/Hangul1.png)
 
   ## References
 
